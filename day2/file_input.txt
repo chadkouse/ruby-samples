@@ -1,0 +1,12 @@
+This is your first chance to see some of Ruby’s
+sugar and also a little of the magic. You’re
+starting to see how flexible Ruby can be. The 
+collections are dead simple: two collections with multiple APIs 
+layered on top. Application performance is secondary. Ruby 
+is about the performance of the programmer. The enumerable 
+module gives you a flavor of just how well-
+designed Ruby can be. The single-inheritance object-
+oriented structure certainly isn’t novel, but the 
+implementation is packed with intuitive design and useful features. 
+This level of abstraction gives you a marginally better programming 
+language, but serious mojo is on the way.
