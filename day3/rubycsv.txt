@@ -1,0 +1,7 @@
+name, age, gender, kids
+chad kouse, 33, m, 2
+stacey kouse, 31, f, 2
+jared fleener, 33, m, 3
+andrew fessler, 38, m, 3
+zach hobbs, 29, m, 0
+jason hudgins, 39, m, 2
